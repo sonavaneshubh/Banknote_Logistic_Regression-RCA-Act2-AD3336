@@ -64,6 +64,6 @@ The main objective is to understand how Logistic Regression performs binary clas
 This project demonstrates how Logistic Regression can be used to distinguish genuine and forged banknotes using four numerical features. It also provides practical understanding of probability prediction, classification thresholds, and model evaluation.
 
 ## Author
-**Sandesh Kondikire**  
+**Shubham Sonwane**  
 B.Tech – Artificial Intelligence and Data Science
 **
