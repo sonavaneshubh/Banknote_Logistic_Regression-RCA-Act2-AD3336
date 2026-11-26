@@ -64,7 +64,7 @@ The main objective is to understand how Logistic Regression performs binary clas
 This project demonstrates how Logistic Regression can be used to distinguish genuine and forged banknotes using four numerical features. It also provides practical understanding of probability prediction, classification thresholds, and model evaluation.
 
 🎓 Faculty Submission
-GitHub ID: complexiota
+GitHub ID: [complexiota](https://github.com/complexiota)
 
 ## Author
 **Shubham Sonwane**  
